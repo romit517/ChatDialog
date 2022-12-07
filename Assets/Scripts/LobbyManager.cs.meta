@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 190136c494d484ce2b63093272b81b9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - playerScrollContent: {instanceID: 0}
+  - txtPlayerNumber: {instanceID: 0}
+  - btnStart: {instanceID: 0}
+  - btnReady: {instanceID: 0}
+  - playerPanelPrefab: {fileID: 6250034480811586176, guid: d88253ec0ad8f4b8c84d7a36e2b04cbd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
